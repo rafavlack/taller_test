@@ -18,7 +18,7 @@ Aplicación web full-stack desarrollada con **Spring Boot** en el backend y **Re
 ### 🔜 Frontend
 - ReactJS
 - Vite
-- Tailwind CSS (si se utiliza)
+- Tailwind CSS
 - Fetch API o Axios
 
 ## 📋 Funcionalidades principales
